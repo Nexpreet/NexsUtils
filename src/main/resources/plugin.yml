@@ -1,0 +1,4 @@
+name: NexsUtils
+version: '${project.version}'
+main: net.nexpreet.nexsutils.NexsUtils
+api-version: '1.20'
